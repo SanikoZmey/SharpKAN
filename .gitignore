@@ -1,0 +1,5 @@
+MigrationBackup/
+.vs/
+.git/
+SharpKAN_lib/bin/
+SharpKAN_lib/obj/

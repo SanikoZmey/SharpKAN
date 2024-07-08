@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpKAN_lib", "SharpKAN_lib\SharpKAN_lib.csproj", "{6AB3DD29-6E2A-4AD5-8A81-4242D04C6170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB3DD29-6E2A-4AD5-8A81-4242D04C6170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB3DD29-6E2A-4AD5-8A81-4242D04C6170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB3DD29-6E2A-4AD5-8A81-4242D04C6170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB3DD29-6E2A-4AD5-8A81-4242D04C6170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {508EDC44-C8BE-4936-BC1A-EA255DB70EDE}
+	EndGlobalSection
+EndGlobal
